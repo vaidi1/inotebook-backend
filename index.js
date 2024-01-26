@@ -19,3 +19,5 @@ app.listen(port, () => {
   console.log(`iNotebook backend listening on port http://localhost:${port}`)
 })
 
+export default app;
+
